@@ -1,13 +1,14 @@
 # NUMB
 <hr>
 
-**Clone Repo**
+## Clone Repo
 ```bash
 git clone https://github.com/adityjha0/numb.git
 ```
+
 <br>
 
-**Install Raylib**
+## Install Raylib
 
 *Ubuntu Linux*
 ```bash
@@ -25,6 +26,8 @@ sudo pacman -Sy
 sudo pacman -S raylib
 ```
 
+For other Linux distributions, the installation process is documented <a href="https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux">here</a>.
+
 *Mac*
 ```bash
 brew install raylib
@@ -32,7 +35,7 @@ brew install raylib
 
 <br>
 
-**Build and run**
+## Build and run
 ```bash
 make run
 ```
